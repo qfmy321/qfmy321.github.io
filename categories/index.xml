@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 中医健康网</title>
+    <link>https://qfmy321.github.io/categories/</link>
+    <description>Recent content in Categories on 中医健康网</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <managingEditor>me@example.com (ZY)</managingEditor>
+    <webMaster>me@example.com (ZY)</webMaster>
+    <lastBuildDate>Fri, 25 Apr 2025 16:01:23 +0800</lastBuildDate>
+    <atom:link href="https://qfmy321.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yangsheng</title>
+      <link>https://qfmy321.github.io/categories/yangsheng/</link>
+      <pubDate>Fri, 25 Apr 2025 16:01:23 +0800</pubDate><author>me@example.com (ZY)</author>
+      <guid>https://qfmy321.github.io/categories/yangsheng/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zcy</title>
+      <link>https://qfmy321.github.io/categories/zcy/</link>
+      <pubDate>Thu, 24 Apr 2025 16:01:23 +0800</pubDate><author>me@example.com (ZY)</author>
+      <guid>https://qfmy321.github.io/categories/zcy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tangyao</title>
+      <link>https://qfmy321.github.io/categories/tangyao/</link>
+      <pubDate>Tue, 22 Apr 2025 16:01:23 +0800</pubDate><author>me@example.com (ZY)</author>
+      <guid>https://qfmy321.github.io/categories/tangyao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Danfan</title>
+      <link>https://qfmy321.github.io/categories/danfan/</link>
+      <pubDate>Wed, 28 Sep 2022 16:01:23 +0800</pubDate><author>me@example.com (ZY)</author>
+      <guid>https://qfmy321.github.io/categories/danfan/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
